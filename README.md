@@ -19,9 +19,13 @@ TCAM (Track and Caption Any Motion) addresses the fundamental challenge of under
 
 The TCAM framework consists of three main components:
 
+![TCAM Pipeline](static/tcam_pipeline.png)
+
 1. **Trajectory Tracking Module**: Identifies and follows motion patterns across frames
 2. **Text Bank Retrieval System**: Finds relevant expressions for discovered motions
 3. **Spatial Grounding Mechanism**: Associates textual descriptions with specific video regions
+
+![TCAM Teaser](static/tcam_teaser.png)
 
 ## Performance
 
