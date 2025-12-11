@@ -180,7 +180,7 @@ While TCAM demonstrates robust performance, challenging scenarios include:
 If you use this code or find our work helpful, please cite:
 
 ```bibtex
-@inproceedings{tcam2024,
+@inproceedings{tcam2025,
   title={Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos},
   author={Bishoy Galoaa and Sarah Ostadabbas},
   year={2026}
