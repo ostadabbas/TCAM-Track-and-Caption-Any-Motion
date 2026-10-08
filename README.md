@@ -42,6 +42,9 @@ for e in pipe("my_clip.mp4").events:
     print(e.start_sec, e.end_sec, e.caption)
 ```
 
+To fine-tune TCAM on your own videos, see the
+[fine-tuning section](https://huggingface.co/bishoygaloaa/tcam#fine-tuning) on Hugging Face.
+
 ## Citation
 
 ```bibtex
