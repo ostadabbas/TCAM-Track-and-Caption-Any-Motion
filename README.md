@@ -4,6 +4,10 @@
 
 [🤗 Model & inference code](https://huggingface.co/bishoygaloaa/tcam)
 
+[![TCAM drawer demo](static/tcam_drawer_demo.gif)](https://huggingface.co/bishoygaloaa/tcam/resolve/main/assets/tcam_drawer_demo.mp4)
+
+*Same drawer, opposite motions. TCAM tracks what moves and tells them apart: opening (orange, out) vs. closing (blue, in).*
+
 ![TCAM Teaser](static/tcam_teaser.png)
 
 Give TCAM a video and it tells you **what moves, when, and where**: it finds the motion
