@@ -2,7 +2,7 @@
 
 **Query-Free Motion Discovery and Description in Videos**
 
-[🤗 Model & inference code](https://huggingface.co/bishoygaloaa/tcam)
+[Project page](https://ostadabbas.github.io/TCAM.io/) · [🤗 Model](https://huggingface.co/bishoygaloaa/tcam)
 
 [![TCAM drawer demo](static/tcam_drawer_demo.gif)](https://huggingface.co/bishoygaloaa/tcam/resolve/main/assets/tcam_drawer_demo.mp4)
 
