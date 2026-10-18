@@ -1,0 +1,17 @@
+# Tested: Python 3.10, CUDA 12.1, Tesla V100. Install torch first:
+#   pip install torch==2.3.1 torchvision==0.18.1 --index-url https://download.pytorch.org/whl/cu121
+# transformers 5.x breaks with torch 2.3, and torch 2.3 cannot use numpy 2 -- keep these pins.
+transformers==4.44.2
+numpy==1.26.4
+peft==0.12.0
+accelerate==0.33.0
+timm==1.0.9
+sentencepiece
+safetensors
+huggingface_hub
+decord==0.6.0
+opencv-python-headless==4.10.0.84
+imageio
+imageio-ffmpeg
+scipy
+cotracker @ git+https://github.com/facebookresearch/co-tracker.git@82e02e8029753ad4ef13cf06be7f4fc5facdda4d

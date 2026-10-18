@@ -48,3 +48,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+# TCAM outputs and local checkpoints
+tcam_out/
+*.safetensors
+*.pt

@@ -18,12 +18,11 @@ grounds each description to the point trajectories of the subject performing it.
 
 ## Run TCAM on your own videos
 
-The pretrained model, inference pipeline and docs are on Hugging Face:
-[**bishoygaloaa/tcam**](https://huggingface.co/bishoygaloaa/tcam).
+The weights are on Hugging Face ([**bishoygaloaa/tcam**](https://huggingface.co/bishoygaloaa/tcam))
+and download automatically on first run.
 
 ```bash
-git lfs install
-git clone https://huggingface.co/bishoygaloaa/tcam && cd tcam
+git clone https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion && cd TCAM-Track-and-Caption-Any-Motion
 
 pip install torch==2.3.1 torchvision==0.18.1 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
@@ -42,7 +41,7 @@ for e in pipe("my_clip.mp4").events:
     print(e.start_sec, e.end_sec, e.caption)
 ```
 
-To fine-tune TCAM on your own videos, see the
+To fine-tune on your own videos, see `python finetune.py --help` or the
 [fine-tuning section](https://huggingface.co/bishoygaloaa/tcam#fine-tuning) on Hugging Face.
 
 ## Citation
