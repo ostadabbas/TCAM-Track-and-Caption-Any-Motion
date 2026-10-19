@@ -47,10 +47,11 @@ To fine-tune on your own videos, see `python finetune.py --help` or the
 ## Citation
 
 ```bibtex
-@inproceedings{tcam2025,
+@inproceedings{galoaa2027tcam,
   title={Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos},
-  author={Bishoy Galoaa and Sarah Ostadabbas},
-  year={2026}
+  author={Galoaa, Bishoy and Ostadabbas, Sarah},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2027}
 }
 ```
 
