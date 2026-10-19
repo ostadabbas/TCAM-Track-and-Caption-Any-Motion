@@ -1,8 +1,20 @@
 # TCAM: Track and Caption Any Motion
 
-**Query-Free Motion Discovery and Description in Videos**
+**Query-Free Motion Discovery and Description in Videos** · **Accepted at WACV 2027**
 
-[Project page](https://ostadabbas.github.io/TCAM.io/) · [🤗 Model](https://huggingface.co/bishoygaloaa/tcam)
+[![WACV 2027](https://img.shields.io/badge/WACV-2027-accepted-success)](https://wacv2027.thecvf.com/)
+[![Project Page](https://img.shields.io/badge/Project-Page-0A66C2)](https://ostadabbas.github.io/TCAM.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-ostadabbas%2FTCAM--Track--and--Caption--Any--Motion-black?logo=github)](https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/bishoygaloaa/tcam)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.10607-b31b1b.svg)](https://arxiv.org/abs/2512.10607)
+
+| Resource | Link |
+|---|---|
+| **Project page** | https://ostadabbas.github.io/TCAM.io/ |
+| **Code (this repo)** | https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion |
+| **Model weights** | https://huggingface.co/bishoygaloaa/tcam |
+| **Paper (arXiv)** | https://arxiv.org/abs/2512.10607 |
+| **Lab** | [Augmented Cognition Lab](https://web.northeastern.edu/ostadabbas/) · Northeastern University |
 
 [![TCAM drawer demo](static/tcam_drawer_demo.gif)](https://huggingface.co/bishoygaloaa/tcam/resolve/main/assets/tcam_drawer_demo.mp4)
 
