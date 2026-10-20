@@ -2,7 +2,7 @@
 
 **Query-Free Motion Discovery and Description in Videos** · **Accepted at WACV 2027**
 
-[![WACV 2027](https://img.shields.io/badge/WACV-2027-accepted-success)](https://wacv2027.thecvf.com/)
+[![WACV 2027](https://img.shields.io/badge/WACV_2027-accepted-success)](https://wacv2027.thecvf.com/)
 [![Project Page](https://img.shields.io/badge/Project-Page-0A66C2)](https://ostadabbas.github.io/TCAM.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-ostadabbas%2FTCAM--Track--and--Caption--Any--Motion-black?logo=github)](https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)](https://huggingface.co/bishoygaloaa/tcam)
